@@ -1,4 +1,4 @@
-<img align="right" src="https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/https://www.1843magazine.com/sites/default/files/styles/il_manual_crop_16_9/public/Destruction-overlay.jpg">
+<img align="center" src="/assets/main_image.jpg">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adelmércio-almeida) 
