@@ -1,5 +1,5 @@
 # Olá, eu sou Adelmércio Almeida
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adelmércio-almeida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adelmercio-almeida)
 [![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/cosmic_rumbling)
 
 💻 **Desenvolvedor Full Stack** | 🎨 **Designer Criativo** | ♟️ **Apaixonado por Xadrez**
